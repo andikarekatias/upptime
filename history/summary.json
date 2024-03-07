@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mediakepri.co.id.ico",
     "slug": "mediakepri",
     "status": "down",
-    "uptime": "0.09%",
-    "uptimeDay": "0.09%",
-    "uptimeWeek": "0.09%",
-    "uptimeMonth": "0.09%",
-    "uptimeYear": "0.09%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 224,
     "timeDay": 224,
     "timeWeek": 224,
     "timeMonth": 224,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2024-03-07": 18
+      "2024-03-07": 29
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://beritabatam.com",
     "icon": "https://icons.duckduckgo.com/ip3/beritabatam.com.ico",
     "slug": "beritabatam",
-    "status": "down",
-    "uptime": "98.26%",
-    "uptimeDay": "98.26%",
-    "uptimeWeek": "98.26%",
-    "uptimeMonth": "98.26%",
-    "uptimeYear": "98.26%",
-    "time": 4944,
-    "timeDay": 4944,
-    "timeWeek": 4944,
-    "timeMonth": 4944,
-    "timeYear": 4944,
+    "status": "up",
+    "uptime": "63.20%",
+    "uptimeDay": "63.20%",
+    "uptimeWeek": "63.20%",
+    "uptimeMonth": "63.20%",
+    "uptimeYear": "63.20%",
+    "time": 6146,
+    "timeDay": 6146,
+    "timeWeek": 6146,
+    "timeMonth": 6146,
+    "timeYear": 6146,
     "dailyMinutesDown": {
-      "2024-03-07": 0
+      "2024-03-07": 11
     }
   },
   {
