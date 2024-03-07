@@ -1,6 +1,7 @@
 # Change these first
 owner: andikarekatias # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
+user-agent: andikarekatias
 
 sites:
   - name: Andika Rekatias
@@ -24,6 +25,7 @@ status-website:
   cname: status.andikarekatias.com
   # baseUrl: /your-repo-name
   logoUrl: https://andikarekatias.com/assets/img/ar-logo-bw-x54.png
+  favicon: https://andikarekatias.com/assets/img/favicon.ico
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: Status page for all the sites I personally manage.
