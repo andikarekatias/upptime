@@ -7,7 +7,7 @@ sites:
   - name: Andika Rekatias
     url: https://andikarekatias.com
   - name: Mediakepri
-    url: https://mediakepri.co
+    url: https://mediakepri.co.id
   - name: Beritabatam
     url: https://beritabatam.com
   - name: Meutiaranews
@@ -25,8 +25,7 @@ status-website:
   logoUrl: https://andikarekatias.com/assets/img/ar-logo-bw-x54.png
   favicon: https://andikarekatias.com/assets/img/favicon.ico
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Status page for all the sites I personally manage.
+  introTitle: "Status page for all the sites I personally manage." 
   navbar:
     - title: Status
       href: /
