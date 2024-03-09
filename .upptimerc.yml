@@ -9,7 +9,7 @@ sites:
   - name: Mediakepri
     url: https://mediakepri.co.id
     headers:
-      - "User-Agent: <name> uptime"
+      - "User-Agent: Andika Rekatias Uptime"
   - name: Beritabatam
     url: https://beritabatam.com
   - name: Meutiaranews
