@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mediakepri.co.id.ico",
     "slug": "mediakepri",
     "status": "down",
-    "uptime": "3.17%",
+    "uptime": "2.79%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "3.17%",
-    "uptimeMonth": "3.17%",
-    "uptimeYear": "3.17%",
+    "uptimeWeek": "2.79%",
+    "uptimeMonth": "2.79%",
+    "uptimeYear": "2.79%",
     "time": 275,
     "timeDay": 178,
     "timeWeek": 275,
     "timeMonth": 275,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2024-03-09": 47,
+      "2024-03-09": 434,
       "2024-03-08": 1440,
       "2024-03-07": 1214
     }
@@ -45,11 +45,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/beritabatam.com.ico",
     "slug": "beritabatam",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.67%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.62%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
     "time": 6234,
     "timeDay": 10104,
     "timeWeek": 6234,
@@ -82,9 +82,9 @@
     "url": "https://lendoot.com",
     "icon": "https://icons.duckduckgo.com/ip3/lendoot.com.ico",
     "slug": "lendoot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -93,7 +93,9 @@
     "timeWeek": 5174,
     "timeMonth": 5174,
     "timeYear": 5174,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-09": 0
+    }
   },
   {
     "name": "SMK Real Informatika",
