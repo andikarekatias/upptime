@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 147,
     "timeDay": 166,
-    "timeWeek": 147,
+    "timeWeek": 161,
     "timeMonth": 147,
     "timeYear": 147,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 534,
     "timeDay": 1529,
-    "timeWeek": 534,
+    "timeWeek": 714,
     "timeMonth": 534,
     "timeYear": 534,
     "dailyMinutesDown": {}
@@ -41,14 +41,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/beritabatam.com.ico",
     "slug": "beritabatam",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 5286,
     "timeDay": 4513,
-    "timeWeek": 5286,
+    "timeWeek": 5243,
     "timeMonth": 5286,
     "timeYear": 5286,
     "dailyMinutesDown": {
@@ -68,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 1511,
     "timeDay": 1640,
-    "timeWeek": 1511,
+    "timeWeek": 1463,
     "timeMonth": 1511,
     "timeYear": 1511,
     "dailyMinutesDown": {}
@@ -78,18 +78,20 @@
     "url": "https://lendoot.com",
     "icon": "https://icons.duckduckgo.com/ip3/lendoot.com.ico",
     "slug": "lendoot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4575,
     "timeDay": 1680,
-    "timeWeek": 4575,
+    "timeWeek": 4167,
     "timeMonth": 4575,
     "timeYear": 4575,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-14": 0
+    }
   },
   {
     "name": "SMK Real Informatika",
@@ -104,7 +106,7 @@
     "uptimeYear": "100.00%",
     "time": 4403,
     "timeDay": 4846,
-    "timeWeek": 4403,
+    "timeWeek": 4751,
     "timeMonth": 4403,
     "timeYear": 4403,
     "dailyMinutesDown": {}
