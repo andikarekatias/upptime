@@ -78,19 +78,19 @@
     "url": "https://lendoot.com",
     "icon": "https://icons.duckduckgo.com/ip3/lendoot.com.ico",
     "slug": "lendoot",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4575,
-    "timeDay": 1680,
-    "timeWeek": 4167,
-    "timeMonth": 4575,
-    "timeYear": 4575,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 4398,
+    "timeDay": 1625,
+    "timeWeek": 3931,
+    "timeMonth": 4398,
+    "timeYear": 4398,
     "dailyMinutesDown": {
-      "2024-03-14": 0
+      "2024-03-14": 4
     }
   },
   {
