@@ -40,9 +40,9 @@
     "url": "https://beritabatam.com",
     "icon": "https://icons.duckduckgo.com/ip3/beritabatam.com.ico",
     "slug": "beritabatam",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
@@ -52,6 +52,7 @@
     "timeMonth": 4959,
     "timeYear": 4959,
     "dailyMinutesDown": {
+      "2024-03-18": 0,
       "2024-03-07": 11
     }
   },
