@@ -40,18 +40,19 @@
     "url": "https://beritabatam.com",
     "icon": "https://icons.duckduckgo.com/ip3/beritabatam.com.ico",
     "slug": "beritabatam",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 4943,
-    "timeDay": 4753,
-    "timeWeek": 4008,
-    "timeMonth": 4943,
-    "timeYear": 4943,
+    "time": 4972,
+    "timeDay": 5075,
+    "timeWeek": 4140,
+    "timeMonth": 4972,
+    "timeYear": 4972,
     "dailyMinutesDown": {
+      "2024-03-19": 0,
       "2024-03-07": 11
     }
   },
@@ -97,18 +98,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/smkrealinformatika.sch.id.ico",
     "slug": "smk-real-informatika",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 4794,
     "timeDay": 4848,
     "timeWeek": 5224,
     "timeMonth": 4794,
     "timeYear": 4794,
-    "dailyMinutesDown": {
-      "2024-03-19": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
