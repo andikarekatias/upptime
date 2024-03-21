@@ -61,19 +61,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/meutiaranews.co.ico",
     "slug": "meutiaranews",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1568,
     "timeDay": 2458,
     "timeWeek": 1673,
     "timeMonth": 1568,
     "timeYear": 1568,
-    "dailyMinutesDown": {
-      "2024-03-21": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Lendoot",
@@ -81,28 +79,26 @@
     "icon": "https://icons.duckduckgo.com/ip3/lendoot.com.ico",
     "slug": "lendoot",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3899,
     "timeDay": 3790,
     "timeWeek": 2838,
     "timeMonth": 3899,
     "timeYear": 3899,
-    "dailyMinutesDown": {
-      "2024-03-21": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SMK Real Informatika",
     "url": "https://smkrealinformatika.sch.id",
     "icon": "https://icons.duckduckgo.com/ip3/smkrealinformatika.sch.id.ico",
     "slug": "smk-real-informatika",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -111,6 +107,8 @@
     "timeWeek": 5536,
     "timeMonth": 4795,
     "timeYear": 4795,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-21": 0
+    }
   }
 ]
