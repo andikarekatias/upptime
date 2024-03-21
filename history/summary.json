@@ -60,10 +60,10 @@
     "url": "https://meutiaranews.co",
     "icon": "https://icons.duckduckgo.com/ip3/meutiaranews.co.ico",
     "slug": "meutiaranews",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1497,
@@ -71,25 +71,29 @@
     "timeWeek": 1466,
     "timeMonth": 1497,
     "timeYear": 1497,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-21": 1
+    }
   },
   {
     "name": "Lendoot",
     "url": "https://lendoot.com",
     "icon": "https://icons.duckduckgo.com/ip3/lendoot.com.ico",
     "slug": "lendoot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3816,
     "timeDay": 1685,
-    "timeWeek": 2297,
+    "timeWeek": 2401,
     "timeMonth": 3816,
     "timeYear": 3816,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-21": 0
+    }
   },
   {
     "name": "SMK Real Informatika",
