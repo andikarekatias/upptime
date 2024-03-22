@@ -62,19 +62,19 @@
     "url": "https://meutiaranews.co",
     "icon": "https://icons.duckduckgo.com/ip3/meutiaranews.co.ico",
     "slug": "meutiaranews",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1553,
-    "timeDay": 1212,
-    "timeWeek": 1671,
-    "timeMonth": 1553,
-    "timeYear": 1553,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1542,
+    "timeDay": 1249,
+    "timeWeek": 1628,
+    "timeMonth": 1542,
+    "timeYear": 1542,
     "dailyMinutesDown": {
-      "2024-03-22": 1
+      "2024-03-22": 8
     }
   },
   {
@@ -82,19 +82,19 @@
     "url": "https://lendoot.com",
     "icon": "https://icons.duckduckgo.com/ip3/lendoot.com.ico",
     "slug": "lendoot",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3933,
-    "timeDay": 4782,
-    "timeWeek": 3275,
-    "timeMonth": 3933,
-    "timeYear": 3933,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 3962,
+    "timeDay": 4754,
+    "timeWeek": 3436,
+    "timeMonth": 3962,
+    "timeYear": 3962,
     "dailyMinutesDown": {
-      "2024-03-22": 0
+      "2024-03-22": 8
     }
   },
   {
