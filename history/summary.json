@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mediakepri.co.id.ico",
     "slug": "mediakepri",
     "status": "up",
-    "uptime": "99.35%",
+    "uptime": "99.36%",
     "uptimeDay": "89.93%",
     "uptimeWeek": "98.56%",
-    "uptimeMonth": "99.35%",
-    "uptimeYear": "99.35%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
     "time": 830,
     "timeDay": 1496,
     "timeWeek": 1393,
@@ -62,10 +62,10 @@
     "url": "https://meutiaranews.co",
     "icon": "https://icons.duckduckgo.com/ip3/meutiaranews.co.ico",
     "slug": "meutiaranews",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1553,
@@ -73,16 +73,18 @@
     "timeWeek": 1671,
     "timeMonth": 1553,
     "timeYear": 1553,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-22": 1
+    }
   },
   {
     "name": "Lendoot",
     "url": "https://lendoot.com",
     "icon": "https://icons.duckduckgo.com/ip3/lendoot.com.ico",
     "slug": "lendoot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,7 +93,9 @@
     "timeWeek": 3275,
     "timeMonth": 3933,
     "timeYear": 3933,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-22": 0
+    }
   },
   {
     "name": "SMK Real Informatika",
@@ -105,7 +109,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4959,
-    "timeDay": 7097,
+    "timeDay": 8268,
     "timeWeek": 5530,
     "timeMonth": 4959,
     "timeYear": 4959,
