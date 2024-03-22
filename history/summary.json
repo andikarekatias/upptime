@@ -22,9 +22,9 @@
     "url": "https://mediakepri.co.id",
     "icon": "https://icons.duckduckgo.com/ip3/mediakepri.co.id.ico",
     "slug": "mediakepri",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1330,
     "timeMonth": 788,
     "timeYear": 788,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-22": 0
+    }
   },
   {
     "name": "Beritabatam",
@@ -67,7 +69,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1553,
-    "timeDay": 2165,
+    "timeDay": 1212,
     "timeWeek": 1671,
     "timeMonth": 1553,
     "timeYear": 1553,
@@ -85,7 +87,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3933,
-    "timeDay": 5339,
+    "timeDay": 4782,
     "timeWeek": 3275,
     "timeMonth": 3933,
     "timeYear": 3933,
@@ -104,7 +106,7 @@
     "uptimeYear": "100.00%",
     "time": 4959,
     "timeDay": 7097,
-    "timeWeek": 5940,
+    "timeWeek": 5530,
     "timeMonth": 4959,
     "timeYear": 4959,
     "dailyMinutesDown": {}
