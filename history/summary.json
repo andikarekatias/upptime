@@ -100,19 +100,19 @@
     "url": "https://smkrealinformatika.sch.id",
     "icon": "https://icons.duckduckgo.com/ip3/smkrealinformatika.sch.id.ico",
     "slug": "smk-real-informatika",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4921,
-    "timeDay": 4873,
-    "timeWeek": 5303,
-    "timeMonth": 4921,
-    "timeYear": 4921,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "96.88%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 4851,
+    "timeDay": 4076,
+    "timeWeek": 5021,
+    "timeMonth": 4851,
+    "timeYear": 4851,
     "dailyMinutesDown": {
-      "2024-03-27": 0
+      "2024-03-27": 45
     }
   }
 ]
